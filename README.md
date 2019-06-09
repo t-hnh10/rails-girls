@@ -1,24 +1,17 @@
-# README
+# Ruby on Rails Web App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the web app created as part of the Rails Girls 2019 Brisbane event, following the beginner track tutorial.
 
-Things you may want to cover:
+The web app can be found here: https://mysterious-waters-40003.herokuapp.com/i
 
-* Ruby version
+The following were implemented post-completion of the basic app:
 
-* System dependencies
+* Deployment to Heroku
 
-* Configuration
+* Comment function
 
-* Database creation
+* Authentication
 
-* Database initialization
+* Design improvement
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Image resize using Carrierwave
